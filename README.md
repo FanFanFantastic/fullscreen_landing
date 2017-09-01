@@ -10,4 +10,4 @@ a full screen landing show page build from scratch with HTML/CSS
 <br>
 
 <h1> Mobile Responsive</h1>
-https://user-images.githubusercontent.com/13370622/29956114-9ce4bfee-8e99-11e7-95dd-9dd19deedd16.png
+<img src='https://user-images.githubusercontent.com/13370622/29956114-9ce4bfee-8e99-11e7-95dd-9dd19deedd16.png'>
